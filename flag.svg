@@ -1,8 +1,8 @@
 
 <svg>
-  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3 2" id="bj" width="30" height="20">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3 2" id="bj" width="30" height="20">
     <path fill="#E8112D" d="M0 0h3v2H0z"></path>
     <path fill="#FCD116" d="M0 0h3v1H0z"></path>
     <path fill="#008751" d="M0 0h1.2v2H0z"></path>
-  </symbol>
+  </svg>
 </svg>
